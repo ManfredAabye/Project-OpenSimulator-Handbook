@@ -1,6 +1,6 @@
 # Project-OpenSimulator-Handbook
 
-<img src="https://raw.githubusercontent.com/ManfredAabye/Project-OpenSim-Handbook/refs/heads/main/LOGOmasterTr.png" alt="Project Badge" width="250">
+<img src="https://raw.githubusercontent.com/ManfredAabye/Project-OpenSim-Handbook/refs/heads/main/LOGOmaster2Tr.png" alt="Project Badge" width="250">
 
 Project OpenSimulator Handbook
 
