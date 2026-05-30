@@ -800,7 +800,7 @@ Hinweis: Die Liste umfasst nur typische Text-/Quellcode-Dateien, damit keine Feh
 ### .\opensim\OpenSim\Region\Framework\Scenes\SceneObjectGroup.cs (7)
 
 - Zeile 2351: )
-  Kontext: "public void ForEachPart(Action <SceneObjectPart> whatToDo)"
+  Kontext: "public void ForEachPart(Action &lt;SceneObjectPart&gt; whatToDo)"
 - Zeile 2355: (parts[i]);
   Kontext: "whatToDo(parts[i]);"
 - Zeile 3464: remove need for this
@@ -1466,8 +1466,8 @@ Hinweis: Die Liste umfasst nur typische Text-/Quellcode-Dateien, damit keine Feh
 
 ### .\opensim\OpenSim\Tools\pCampBot\BotManager.cs (1)
 
-- Zeile 76: This value needs to be configurable by a command line argument. </remarks>
-  Kontext: "/// <remarks> TODO: This value needs to be configurable by a command line argument. </remarks>"
+- Zeile 76: This value needs to be configurable by a command line argument. &lt;/remarks&gt;
+  Kontext: "/// &lt;remarks&gt; TODO: This value needs to be configurable by a command line argument. &lt;/remarks&gt;"
 
 ### .\opensim\prebuild.xml (1)
 
